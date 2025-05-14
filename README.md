@@ -1,0 +1,1 @@
+# GRU-GAN-for-State-of-Health-Estimation-in-Lithium-Ion-Batteries
