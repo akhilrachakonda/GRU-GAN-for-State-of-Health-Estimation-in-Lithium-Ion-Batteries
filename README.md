@@ -78,5 +78,3 @@ Master's in Computer Science, Sweden 🇸🇪 (Dual Degree, Graduation: June 202
 [Email](mailto:akra24@student.bth.se) • [LinkedIn](https://www.linkedin.com/in/akhil-rachakonda-a968a2214)
 
 ---
-
-📌 For academic use or research extensions, please cite or acknowledge this repository. If you use the code or results, feel free to reach out!
