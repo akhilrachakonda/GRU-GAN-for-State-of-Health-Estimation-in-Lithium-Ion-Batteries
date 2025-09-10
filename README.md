@@ -1,4 +1,4 @@
-# 🔋 GRU-GAN for State of Health (SOH) Prediction in Lithium-Ion Batteries
+#  GRU-GAN for State of Health (SOH) Prediction in Lithium-Ion Batteries
 
 This repository presents a research-based comparative study on predicting the **State of Health (SOH)** of lithium-ion batteries using a hybrid deep learning model: **GRU-GAN**. The approach combines Gated Recurrent Units (GRU) with Generative Adversarial Networks (GAN) to enhance prediction accuracy.
 
