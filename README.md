@@ -71,10 +71,11 @@ The report outlines potential improvements and research directions:
 
 ---
 
-## 👤 Author
+## 👤 Authors
+
+**Sri Kashyap Dongari**  
 
 **Akhil Goud Rachakonda**  
-Master's in Computer Science, Sweden 🇸🇪 (Dual Degree, Graduation: June 2026)  
-[Email](mailto:akra24@student.bth.se) • [LinkedIn](https://www.linkedin.com/in/akhil-rachakonda-a968a2214)
+
 
 ---
